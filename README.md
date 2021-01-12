@@ -16,4 +16,4 @@ ii) isValid() - It checks if the number to be placed in the matrix is valid for 
 				input sudoku grid. It also displays the solved grid on the screen.
 				
 Software Used for implementation - VScode
-Language - C++
+Language - C++.
