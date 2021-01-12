@@ -9,10 +9,10 @@ Backtracking Algorithm:
 Backtracking is a general algorithm for finding all (or some) solutions to some computational problems, notably constraint satisfaction problems, that incrementally builds candidates to the solutions, and abandons a candidate ("backtracks") as soon as it determines that the candidate cannot possibly be completed to a valid solution. This includes a recursive function call.
 
 Functions in the project:
-		(i) SolveSudoku() -	It takes the input matrix and checks for each position if the number to place in it is valid or not. for checking the validity we have 						one more function	isValid().
-		(ii) isValid() - It checks if the number to be placed in the matrix is valid for that particular position or not.
+(i) SolveSudoku() -	It takes the input matrix and checks for each position if the number to place in it is valid or not. for checking the validity we have 						one more function	isValid().
+ii) isValid() - It checks if the number to be placed in the matrix is valid for that particular position or not.
 		finally,
-		(iii) Display() - The program then comiles the array and displays the output on the screen along with existing 
+(iii) Display() - The program then comiles the array and displays the output on the screen along with existing 
 				input sudoku grid. It also displays the solved grid on the screen.
 				
 Software Used for implementation - VScode
